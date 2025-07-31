@@ -1,9 +1,5 @@
 # Basic Calculator Program - Assignment
-
-**Course:** Power Learn Project  
-**Assignment:** Basic Calculator Implementation  
-**Student:** [Your Name]  
-**Date:** [Submission Date]
+Power Learn Project  
 
 ## Assignment Description
 
